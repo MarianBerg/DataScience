@@ -1,0 +1,16 @@
+Tag,Temperatur [°C],Luftfeuchte [%],Draussen 
+Tag 1,26,84,Nein
+Tag 2,28,81,Nein
+Tag 3,29,80,Ja
+Tag 4,23,80,Ja
+Tag 5,20,55,Ja
+Tag 6,12,62,Nein
+Tag 7,8,79,Nein
+Tag 8,25,65,Nein
+Tag 9,18,58,Ja
+Tag 10,20,49,Ja
+Tag 11,21,80,Ja
+Tag 12,26,46,Ja
+Tag 13,24,69,Nein
+Tag 14,23,65,Ja
+Tag 15,21,61,Ja

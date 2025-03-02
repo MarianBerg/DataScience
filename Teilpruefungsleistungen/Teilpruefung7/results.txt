@@ -1,0 +1,88 @@
+Bemerkung: Die Ergebnisse waren ziemlich schlecht, koennte daran liegen dass die Lernrate zu gross war. Mit 0.0001 waren die Ergebnisse sehr
+viel besser. Ansonsten waere vielleicht ein Softmax Layer an der Ausgabe sinnvoll?
+
+Ergebnisse Sigmoid:
+test_size: 2000
+Richtige Insgesamt: 1397
+Performance: 0.6985
+learning_rate: 0.0001
+
+Ergebnisse LeakyReLU:
+test_size: 2000
+Richtige Insgesamt: 183
+Performance: 0.0915
+learning_rate: 0.01
+
+Ergebnisse LeakyReLU:
+test_size: 2000
+Richtige Insgesamt: 201
+Performance: 0.1005
+Learning_rate: 0.05
+
+Ergebnisse LeakyReLU:
+test_size: 2000
+Richtige Insgesamt: 173
+Performance: 0.0865
+Learning_rate: 0.1
+
+Ergebnisse LeakyReLU:
+test_size: 2000
+Richtige Insgesamt: 186
+Performance: 0.093
+Learning_rate: 0.5
+
+Ergebnisse PReLU:
+test_size: 2000
+Richtige Insgesamt: 197
+Performance: 0.0985
+Learning_rate: 0.5
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 176
+Performance: 0.088
+Learning_rate: 0.1
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 211
+Performance: 0.1055
+Learning_rate: 0.2
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 216
+Performance: 0.108
+Learning_rate: 0.3
+
+
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 663
+Performance: 0.3315
+Learning_rate: 0.001
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 1805
+Performance: 0.9025
+Learning_rate: 0.0001
+
+Ergebnisse ELU:
+test_size: 2000
+Richtige Insgesamt: 1095
+Performance: 0.5475
+Learning_rate: 1e-05
+
+Ergebnisse ReLU:
+test_size: 2000
+Richtige Insgesamt: 1115
+Performance: 0.5575
+Learning_rate: 0.0001
+
+Ergebnisse ReLU:
+test_size: 2000
+Richtige Insgesamt: 1901
+Performance: 0.9505
+Learning_rate: 0.0001
